@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVMAPIRepo</string>
+    <string name="delete_all_item">Delete All Item</string>
+    <string name="item_title">Title</string>
+    <string name="item_code">Title</string>
+
+    <string name="add_item_name">Item Name</string>
+    <string name="add_item_code">Item Code</string>
+</resources>
